@@ -1,7 +1,7 @@
 ---
 title: "Membuat Tema Hugo"
 date: 2020-04-23T18:00:13Z
-draft: true
+draft: false
 thumbnail : "src"
 shortText : "text"
 ---
