@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogger</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blogger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 04:03:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pola fikir yang wajib diubah pada usia 20 tahun keatas</title>
+      <link>http://example.org/screenshoot/pola-fikir/</link>
+      <pubDate>Thu, 23 Apr 2020 04:03:29 +0000</pubDate>
+      
+      <guid>http://example.org/screenshoot/pola-fikir/</guid>
+      <description>Masih ada nanti, kenapa harus sekarang Jangan malas! Dunia tidak akan ramah bahkan kepada para pekerja keras. Lawan malas!
+ Anda masih anak anak Omong kosong! Tidak ada banyak waktu tersisa bagi anda untuk bermain main. Anda sudah membuktikannya sendiri bukan?
+ Semua akan baik baik saja Tidak! 20 tahun hidup di dunia berarti anda mesti siap untuk tidak baik baik saja. Untuk tumbuh anda harus sadar bahwa tidak semua berjalan sesuai kehendak anda.</description>
+    </item>
+    
+  </channel>
+</rss>

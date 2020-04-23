@@ -1,0 +1,9 @@
+{{ define  "main" }} 
+  <h3 class="center-align">{{ .Title }}</h3>
+  {{- if .Params.thumbnail }}
+    <img class="responsive-img" src="{{ .Params.thumbnail | relURL }}">
+  {{ end }} 
+  <div class="container">
+    {{ .Content }}
+  </div>
+{{ end }}
