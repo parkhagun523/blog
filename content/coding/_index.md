@@ -5,4 +5,4 @@ draft: false
 thumbnail : "src"
 shortText : "text"
 ---
-jiehwhwhwh
+{{< navbar_coding data-href1="/javascript" data-textlink1="Javascript"  data-href2="/php" data-textlink2="Php">}}
