@@ -5,4 +5,5 @@ draft: false
 thumbnail : "src"
 shortText : "text"
 ---
-Kontol
+{{< blockquotes data-text="Masih ada nanti, kenapa harus sekarang" >}}
+
