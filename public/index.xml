@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogger</title>
+    <title>Content on Blogger</title>
     <link>http://example.org/</link>
-    <description>Recent content on Blogger</description>
+    <description>Recent content in Content on Blogger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 04:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 05:15:21 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Javascript Introduction</title>
+      <link>http://example.org/coding/js/javascript-introduction/</link>
+      <pubDate>Fri, 24 Apr 2020 04:48:28 +0000</pubDate>
+      
+      <guid>http://example.org/coding/js/javascript-introduction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pola fikir yang wajib diubah pada usia 20 tahun keatas</title>
