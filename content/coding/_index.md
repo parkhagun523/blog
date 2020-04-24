@@ -5,4 +5,4 @@ draft: false
 thumbnail : "src"
 shortText : "text"
 ---
-
+ini adalah halaman index
