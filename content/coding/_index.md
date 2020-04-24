@@ -5,4 +5,5 @@ draft: false
 thumbnail : "src"
 shortText : "text"
 ---
+akaiaiakaakka
 {{< navbar_coding data-href1="/javascript" data-textlink1="Javascript"  data-href2="/php" data-textlink2="Php">}}
