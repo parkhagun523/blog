@@ -5,5 +5,4 @@ draft: false
 thumbnail : "src"
 shortText : "text"
 ---
-{{< blockquotes data-text="Masih ada nanti, kenapa harus sekarang" >}}
-
+{{< navbar_coding data-href1="/php" data-textlink1="Php" data-href2="/js" data-textlink2="Javascript" >}}
