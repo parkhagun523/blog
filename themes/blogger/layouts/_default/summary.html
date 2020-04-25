@@ -7,6 +7,9 @@
         <a href="{{ .RelPermalink }}" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">send</i></a> 
       </div>
       <div class="card-content grey darken-4">
-          <b><p class="text-flow white-text">{{ .Params.ShortText }}</div></p></b>
+        <b><p class="text-flow white-text">{{ .Params.ShortText }}</p></b>
+        {{ range .Params.Categories }}
+            <b><p class="text-flow grey-text">#{{ . }}</p></b>
+        {{ end }}
       </div>
     </div>
